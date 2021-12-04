@@ -7,6 +7,7 @@
     --color-1: #f75078;
     --text-color-1: #8c3854;
     --text-color-1-strong: #63263a;
+    --font-size-tablets:font-size:1.2em;
 }
   
   /*================== Resets ================*/
@@ -43,8 +44,8 @@
   }
   .bold{
     font-weight: bolder;
-    
   }
+  
   
   /*================== Mobile ================*/
   @media (max-width: 400px) {
